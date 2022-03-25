@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Rambo",
+        "sinopsis": "Lo de los tiros i los fiambres"
+    },
+    {
+        "id": 2,
+        "title": "The Lord of The Rings",
+        "sinopsis": "Lo de andar"
+    },
+    {
+        "id": 3,
+        "title": "Star Wars: The return of the Jedi",
+        "sinopsis": "Los de los osos"
+    }
+]
