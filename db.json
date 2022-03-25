@@ -1,0 +1,51 @@
+{
+    "films": [
+        {
+            "id": 1,
+            "title": "El Señor de los Anillos",
+            "sinopsis": "Lo de andar",
+            "upvotes": 0,
+            "downvotes": 0
+        },
+        {
+            "id": 2,
+            "title": "Star Wars: El retorno del Jedi",
+            "sinopsis": "Lo de los osos",
+            "upvotes": 0,
+            "downvotes": 0
+        },
+        {
+            "id": 3,
+            "title": "Titanic",
+            "sinopsis": "Lo de la puerta",
+            "upvotes": 0,
+            "downvotes": 0
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "pero porqué no enviar las águilas con el anillo y entonces...",
+            "commentDate": "2020-04-23T18:25:43.511Z",
+            "filmId": 1
+        },
+        {
+            "id": 1,
+            "body": "las águilas no son un p*** taxi gili****",
+            "commentDate": "2020-05-12T13:25:43.511Z",
+            "filmId": 1
+        },
+        {
+            "id": 1,
+            "body": "yo creo que cabían los dos en la puerta",
+            "commentDate": "2021-11-01T18:25:43.511Z",
+            "filmId": 3
+        },
+        {
+            "id": 1,
+            "body": "y yo pensaba que los cadáveres flotan... y mira...",
+            "commentDate": "2021-11-12T13:25:43.511Z",
+            "filmId": 3
+        }
+    ]
+}
