@@ -25,26 +25,26 @@
     "comments": [
         {
             "id": 1,
-            "body": "pero porqué no enviar las águilas con el anillo y entonces...",
-            "commentDate": "2020-04-23T18:25:43.511Z",
+            "text": "pero porqué no enviar las águilas con el anillo y entonces...",
+            "date": "2020-04-23T18:25:43.511Z",
             "filmId": 1
         },
         {
             "id": 1,
-            "body": "las águilas no son un p*** taxi gili****",
-            "commentDate": "2020-05-12T13:25:43.511Z",
+            "text": "las águilas no son un p*** taxi gili****",
+            "date": "2020-05-12T13:25:43.511Z",
             "filmId": 1
         },
         {
             "id": 1,
-            "body": "yo creo que cabían los dos en la puerta",
-            "commentDate": "2021-11-01T18:25:43.511Z",
+            "text": "yo creo que cabían los dos en la puerta",
+            "date": "2021-11-01T18:25:43.511Z",
             "filmId": 3
         },
         {
             "id": 1,
-            "body": "y yo pensaba que los cadáveres flotan... y mira...",
-            "commentDate": "2021-11-12T13:25:43.511Z",
+            "text": "y yo pensaba que los cadáveres flotan... y mira...",
+            "date": "2021-11-12T13:25:43.511Z",
             "filmId": 3
         }
     ]
