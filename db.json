@@ -7,7 +7,7 @@
             "director": "Peter Jackson",
             "releaseDate": 2000,
             "upVotes": 15,
-            "downVotes": 7
+            "downVotes": 19
         },
         {
             "id": 2,
@@ -16,7 +16,7 @@
             "director": "George Lucas",
             "releaseDate": 1987,
             "upVotes": 3,
-            "downVotes": 16
+            "downVotes": 42
         },
         {
             "id": 3,
@@ -34,7 +34,7 @@
             "director": "Steven Spielberg",
             "releaseDate": 1979,
             "upVotes": 1,
-            "downVotes": 27
+            "downVotes": 21
         }
     ],
     "comments": [
