@@ -6,8 +6,8 @@
             "sinopsis": "Lo de andar",
             "director": "Peter Jackson",
             "releaseDate": 2000,
-            "upvotes": 0,
-            "downvotes": 0
+            "upVotes": 0,
+            "downVotes": 0
         },
         {
             "id": 2,
@@ -15,8 +15,8 @@
             "sinopsis": "Lo de los osos",
             "director": "George Lucas",
             "releaseDate": 1987,
-            "upvotes": 0,
-            "downvotes": 0
+            "upVotes": 0,
+            "downVotes": 0
         },
         {
             "id": 3,
@@ -24,8 +24,8 @@
             "sinopsis": "Lo de la puerta",
             "director": "James Cameron",
             "releaseDate": 1998,
-            "upvotes": 0,
-            "downvotes": 0
+            "upVotes": 0,
+            "downVotes": 0
         }
     ],
     "comments": [
