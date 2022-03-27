@@ -6,8 +6,8 @@
             "sinopsis": "Lo de andar",
             "director": "Peter Jackson",
             "releaseDate": 2000,
-            "upVotes": 0,
-            "downVotes": 0
+            "upVotes": 15,
+            "downVotes": 44
         },
         {
             "id": 2,
@@ -15,8 +15,8 @@
             "sinopsis": "Lo de los osos",
             "director": "George Lucas",
             "releaseDate": 1987,
-            "upVotes": 0,
-            "downVotes": 0
+            "upVotes": 3,
+            "downVotes": 7
         },
         {
             "id": 3,
@@ -24,8 +24,17 @@
             "sinopsis": "Lo de la puerta",
             "director": "James Cameron",
             "releaseDate": 1998,
-            "upVotes": 0,
-            "downVotes": 0
+            "upVotes": 5,
+            "downVotes": 15
+        },
+        {
+            "id": 4,
+            "title": "Tiburón",
+            "sinopsis": "Lo de la bombona",
+            "director": "Steven Spielberg",
+            "releaseDate": 1979,
+            "upVotes": 1,
+            "downVotes": 6
         }
     ],
     "comments": [
