@@ -35,6 +35,15 @@
             "releaseDate": 1979,
             "upVotes": 1,
             "downVotes": 21
+        },
+        {
+            "id": 5,
+            "title": "Pulp Fiction",
+            "sinopsis": "Lo de los sesos",
+            "director": "Quentin Tarantino",
+            "releaseDate": 1992,
+            "upVotes": 10,
+            "downVotes": 27
         }
     ],
     "comments": [
