@@ -4,6 +4,8 @@
             "id": 1,
             "title": "El Señor de los Anillos",
             "sinopsis": "Lo de andar",
+            "director": "Peter Jackson",
+            "releaseDate": 2000,
             "upvotes": 0,
             "downvotes": 0
         },
@@ -11,6 +13,8 @@
             "id": 2,
             "title": "Star Wars: El retorno del Jedi",
             "sinopsis": "Lo de los osos",
+            "director": "George Lucas",
+            "releaseDate": 1987,
             "upvotes": 0,
             "downvotes": 0
         },
@@ -18,6 +22,8 @@
             "id": 3,
             "title": "Titanic",
             "sinopsis": "Lo de la puerta",
+            "director": "James Cameron",
+            "releaseDate": 1998,
             "upvotes": 0,
             "downvotes": 0
         }
