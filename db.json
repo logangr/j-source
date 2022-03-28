@@ -49,27 +49,45 @@
     "comments": [
         {
             "id": 1,
-            "text": "pero porqué no enviar las águilas con el anillo y entonces...",
+            "text": "Pero porqué no enviar las águilas con el anillo y entonces...",
             "date": "2020-04-23T18:25:43.511Z",
             "filmId": 1
         },
         {
-            "id": 1,
-            "text": "las águilas no son un p*** taxi gili****",
+            "id": 2,
+            "text": "Las águilas no son un maldito taxi **** !!!!!!!!!",
             "date": "2020-05-12T13:25:43.511Z",
             "filmId": 1
         },
         {
-            "id": 1,
-            "text": "yo creo que cabían los dos en la puerta",
+            "id": 3,
+            "text": "Yo creo que cabían los dos en la puerta",
             "date": "2021-11-01T18:25:43.511Z",
             "filmId": 3
         },
         {
-            "id": 1,
-            "text": "y yo pensaba que los cadáveres flotan... y mira...",
+            "id": 4,
+            "text": "Y yo pensaba que los cadáveres flotan... y mira...",
             "date": "2021-11-12T13:25:43.511Z",
             "filmId": 3
+        },
+        {
+            "id": 5,
+            "text": "Los osos eran enanos disfrazados. Lo sabeis verdad?...",
+            "date": "2022-01-10T13:25:43.511Z",
+            "filmId": 2
+        },
+        {
+            "id": 6,
+            "text": "No me gusta nada esta peli, no es realista... Se ve que el tiburón es un muñeco",
+            "date": "2019-04-10T13:25:43.511Z",
+            "filmId": 4
+        },
+        {
+            "id": 7,
+            "text": "Prefiero eso a los enanos disfrazados de Star Wars...",
+            "date": "2020-07-13T13:25:43.511Z",
+            "filmId": 4
         }
     ]
 }
